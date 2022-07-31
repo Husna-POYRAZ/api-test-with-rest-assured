@@ -56,4 +56,28 @@ Website: https://www.zippopotam.us/
    <td><img src="https://user-images.githubusercontent.com/75911392/181996245-3ba96d8f-a719-4ca5-90ca-f17736bb0e7d.PNG" /></td>
 </p>
 
+* An example request and response
+<br>Structure: api.zippopotam.us/country/postal-code
+```
+api.zippopotam.us/us/90210
+```
+* JSON Result
+```
+{
+   "post code": "90210",
+   "country": "United States",
+   "country abbreviation": "US",
+   "places": [
+       {
+           "place name": "Beverly Hills",
+           "longitude": "-118.4065",
+           "state": "California",
+           "state abbreviation": "CA",
+           "latitude": "34.0901"
+       }
+   ]
+}
+
+```
+
 
