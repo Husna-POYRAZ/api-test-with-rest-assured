@@ -22,9 +22,11 @@
 * Optimizing your test code through reuse
 * (De-) serializing request and response bodies
 * Java DSL for writing tests for RESTful APIs
-* RUns on top of JUnit or TesyNG
-* Abstracts away a lot of boilerplate code
+* Runs on top of JUnit or TestNG
 * Supports all HTTP methods (GET, POST, PUT, DELETE, ...)
+* Supports Gherkin syntax (Given/When/Then)
+* Uses Hamcres matchers for checks
+* Uses JsonPath/Gpath and XmlPath for selecting elements from response
 * Developed and maintained by Johan Haleby
 * Source: https://rest-assured.io/
 
