@@ -96,3 +96,10 @@ api.zippopotam.us/us/90210
 ![parameterizing](https://user-images.githubusercontent.com/75911392/182033924-bd2b2a92-577e-427e-9003-1446d5cb3211.PNG)
 
 
+# Optimizing REST Assured code
+1- Reusable request specifications<br>
+2- Reusable response checks<br>
+3- Extracting response values for reuse<br>
+
+![optimizing](https://user-images.githubusercontent.com/75911392/182036760-1d86b560-87c0-4b38-b37e-b311e07d90d6.PNG)
+
