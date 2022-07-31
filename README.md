@@ -24,6 +24,7 @@
 * Java DSL for writing tests for RESTful APIs
 * RUns on top of JUnit or TesyNG
 * Abstracts away a lot of boilerplate code
+* Supports all HTTP methods (GET, POST, PUT, DELETE, ...)
 * Developed and maintained by Johan Haleby
 * Source: https://rest-assured.io/
 
