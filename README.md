@@ -83,4 +83,7 @@ api.zippopotam.us/us/90210
 
 ```
 
+# Tests Result
+
+![restassured](https://user-images.githubusercontent.com/75911392/182031988-606f0e95-9334-48cf-aaf8-27500f70134c.PNG)
 
