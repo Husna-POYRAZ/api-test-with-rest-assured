@@ -87,3 +87,12 @@ api.zippopotam.us/us/90210
 
 ![restassured](https://user-images.githubusercontent.com/75911392/182031988-606f0e95-9334-48cf-aaf8-27500f70134c.PNG)
 
+# How to create a parameterized REST Assured test?
+* Step 1: Create a test data collection 
+* Step 2: Feed data collection to your test method
+* Step 3: Use path parameters to parameterize REST Assured tests
+* Step 4: Update the specified test data
+
+![parameterizing](https://user-images.githubusercontent.com/75911392/182033924-bd2b2a92-577e-427e-9003-1446d5cb3211.PNG)
+
+
